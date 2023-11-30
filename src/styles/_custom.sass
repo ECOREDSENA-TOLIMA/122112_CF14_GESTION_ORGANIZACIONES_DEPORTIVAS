@@ -1,19 +1,314 @@
 .banner-principal-decorativo
   &-1
-    animation: float1 3.5s ease-in-out infinite alternate
+    animation: float1 5s ease-in-out infinite
     position: absolute
-    top: 40%
-    right: 50%
+    top: 70%
+    left: -10%
   &-2
-    animation: float1 2.8s ease-in-out infinite alternate
+    animation: float2 5s ease-in-out infinite
     position: absolute
-    top: 51%
-    right: 30%
+    top: 10%
+    left: -10%
+  &-3
+    animation: float3 5s ease-in-out infinite
+    position: absolute
+    top: 10%
+    right: 0%
+  &-4
+    animation: float4 5s ease-in-out infinite
+    position: absolute
+    top: 80%
+    left: -80%
+  &-5
+    animation: vanish 5s ease-in-out infinite alternate
+    position: absolute
+    top: 20%
+    right: 15%
+    width: 70%
+  &-6
+    top: 30%
+    left: -170%
+    @media (max-width: $bp-max-xl)
+      left: -190%
+  &-7
+    animation: vanish1 5s ease-in-out infinite alternate
+    position: absolute
+    top: 30%
+    left: -170%
+    @media (max-width: $bp-max-xl)
+      left: -190%
+  &-8
+    animation: vanish2 5s ease-in-out infinite alternate
+    position: absolute
+    top: 30%
+    left: -170%
+    @media (max-width: $bp-max-xl)
+      left: -190%
+  &-9
+    animation: vanish3 5s ease-in-out infinite alternate
+    position: absolute
+    top: 30%
+    left: -170%
+    @media (max-width: $bp-max-xl)
+      left: -190%
+  &-10
+    animation: vanish4 5s ease-in-out infinite alternate
+    position: absolute
+    top: 30%
+    left: -170%
+    @media (max-width: $bp-max-xl)
+      left: -190%
+  &-11
+    animation: vanish5 5s ease-in-out infinite alternate
+    position: absolute
+    top: 30%
+    left: -170%
+    @media (max-width: $bp-max-xl)
+      left: -190%
 
 
 @keyframes float1
   0%
-    transform: translateY(20px)
-
+    transform: translateY(50px)
+    opacity: 1
   100%
     transform: translateY(0px)
+    opacity: 0
+  
+@keyframes float2
+  0%
+    transform: translateX(50px)
+    opacity: 1
+  100%
+    transform: translateX(0px)
+    opacity: 0
+  
+@keyframes float3
+  0%
+    transform: translateY(0px)
+    opacity: 1
+  100%
+    transform: translateY(50px)
+    opacity: 0
+  
+@keyframes float4
+  0%
+    transform: translateX(0px)
+    opacity: 1
+  100%
+    transform: translateX(50px)
+    opacity: 0
+  
+@keyframes vanish
+  0%
+    opacity: 0
+  100%
+    opacity: 1
+  
+@keyframes vanish1
+  0%
+    opacity: 0
+  20%
+    opacity: 1
+  
+@keyframes vanish2
+  20%
+    opacity: 0
+  40%
+    opacity: 1
+  
+@keyframes vanish3
+  40%
+    opacity: 0
+  60%
+    opacity: 1
+  
+@keyframes vanish4
+  60%
+    opacity: 0
+  80%
+    opacity: 1
+
+@keyframes vanish5
+  80%
+    opacity: 0
+  100%
+    opacity: 1
+  
+.banner-principal__row .banner-principal__img
+  width: 33%
+
+.titulo-principal.color-acento-contenido .titulo-principal__numero span,.tarjeta.color-acento-contenido *
+  color: #12263F !important
+
+.banner-interno__fondo
+  background-image: url("../assets/curso/portada/img01.png") !important
+
+.BGIMG01
+  background-image: url("../assets/curso/fondos/img01.png")
+
+.BGIMG01
+  background-size: cover 
+  background-repeat: no-repeat
+  background-position: center
+
+.BGIMG01, .BGM08
+  margin-inline: -3rem !important
+  @media (max-width: $bp-max-sm)
+    margin-inline: -1.5rem !important
+
+.cajon.color-primario
+  background-color: #DFE5FF
+
+.BG01, .BGR01, .BGB01
+  background-color: #FE502D
+
+.BGR02
+  background-color: #DEE4F0
+
+.BGB03
+  background-color: #B0C0D2
+
+.BG04, .BGB04
+  background-color: #2D54FE
+
+.BGB05
+  background-color: #12263F
+
+.BGB06
+  background-color: #FFCA00
+
+.BG07
+  background-color: #F6F6F6
+
+.BGM08
+  background-color: #E9EDFF
+
+.BGR09, .BGS09, .BGT09
+  background-color: $white
+
+.linea-tiempo-d.color-acento-contenido .linea-tiempo-d__item--selected .linea-tiempo-d__item__number
+  background-color: #F4A338
+  color: #12263F
+
+.linea-tiempo-d__item--selected .linea-tiempo-d__item__content__title, .linea-tiempo-d__item__content__slot
+  background-color: #F6F6F6
+
+.linea-tiempo-d__item__content__title, .linea-tiempo-d .tarjeta
+  background-color: #D3D3D3
+
+
+.tc1
+  color: #727997
+
+.tc2
+  color: #E23A19
+
+.tc3
+  color: #95AEF0
+
+.tc4
+  color: #424A53
+
+.tc5
+  color: #E3B50C
+
+.BGB01, .BGB03, .BGB04, .BGB05, .BGB06
+  border-radius: 10px
+  border: 3px solid $white
+
+.BGR09
+  border-right: 3px solid #FFCA00
+
+.BGT09
+  border-right: 3px solid #2D54FE
+
+.BGB01, .BGB03, .BGB04, .BGB05, .BGB06, .BGS09
+  box-shadow: 5px 2px 2px #DFDFDF
+
+.BGR01, .BGR02, .linea-tiempo-d__item__content__title
+  border-radius: 5px
+
+.linea-tiempo-d__item--selected .linea-tiempo-d__item__content__title
+  border-radius: 5px 5px 0 0
+
+.linea-tiempo-d__item__content__slot
+  border-radius: 0 0 5px 5px
+
+.lista-ul li, ol.lista-ol li, .lista-ul--color li, .ol.lista-ol--cuadro li, .lista-ol--cuadro li, .lista-ul--separador li
+  display: flex
+
+.img-infografica__item
+  width: 20%
+
+.tarjetas-up
+  overflow: hidden
+  border-radius: 5px
+  position: relative
+  &_card
+    transition: bottom .3s ease-in-out
+    position: absolute
+    border-radius: 5px
+    width: 100%
+    height: 100%
+    left: 0
+    bottom: -80%
+    @media (max-width: $bp-max-xl)
+      bottom: -77%
+    @media (max-width: $bp-max-md)
+      bottom: -75%
+    i:last-child
+      display: none
+  &:hover
+    .tarjetas-up_card
+      bottom: -40%
+      @media (max-width: $bp-max-xl)
+        bottom: -30%
+      @media (max-width: $bp-max-lg)
+        bottom: -15%
+      @media (max-width: $bp-max-md)
+        bottom: -35%
+      @media (max-width: $bp-max-sm)
+        bottom: -10%
+      @media (max-width: $bp-max-xs)
+        bottom: 0
+    i:first-child
+      display: none
+    i:last-child
+      display: block
+
+.img-01
+  position: absolute
+  left: 160px
+  width: 180px
+  @media (max-width: $bp-max-xl)
+    left: 123px
+    width: 195px
+  @media (max-width: $bp-max-lg)
+    left: 45px
+  @media (max-width: $bp-max-md)
+    position: relative
+    left: 0
+    width: 60px
+    top: -10px
+  @media (max-width: $bp-max-xs)
+    top: -3px
+  
+.img-02
+  position: absolute
+  left: 465px
+  width: 138px
+  @media (max-width: $bp-max-xl)
+    left: 380px
+    width: 152px
+  @media (max-width: $bp-max-lg)
+    left: 310px
+  @media (max-width: $bp-max-md)
+    position: relative
+    left: 0
+    width: 60px
+    top: -14px
+  @media (max-width: $bp-max-xs)
+    top: -3px
+    
+

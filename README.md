@@ -1,8 +1,8 @@
-# **sena-base-2021 v6.2.1**
+# **Documentos soporte**
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/](https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/)
+[https://ecored-bogota-dc.github.io/CF14_122112_GESTION_ORGANIZACIONES_DEPORTIVAS/#/](https://ecored-bogota-dc.github.io/CF14_122112_GESTION_ORGANIZACIONES_DEPORTIVAS/#/)
 
 #
 
