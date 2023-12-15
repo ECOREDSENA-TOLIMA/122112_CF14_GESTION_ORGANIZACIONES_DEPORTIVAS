@@ -16,7 +16,7 @@
           img(src='@/assets/curso/tema4/img02.svg' alt="Imagen decorativa")
         p.mb-0 Los libros de contabilidad se clasifican, en libros principales y libros auxiliares.
 
-    p.mb-5(data-aos="fade-right") #[b Los libros principales]: son aquellos, donde se consigna la información sobre recursos, obligaciones, ingresos, costos y gastos de una entidad, allí se lleva el resumen de las operaciones durante el periodo contable de la organización. Los libros principales son: #$[b libro diario y libro mayor].
+    p.mb-5(data-aos="fade-right") #[b Los libros principales]: son aquellos, donde se consigna la información sobre recursos, obligaciones, ingresos, costos y gastos de una entidad, allí se lleva el resumen de las operaciones durante el periodo contable de la organización. Los libros principales son: #[b libro diario y libro mayor].
 
     .row.justify-content-center.mb-5
       .col-lg-6.col-sm-10.mb-xl-0.mb-4(data-aos="fade-right")
