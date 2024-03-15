@@ -69,83 +69,83 @@
         img(src='@/assets/curso/tema2/img09.png' alt="Imagen decorativa")
       .col-lg-8
         p(data-aos="fade-left") Los documentos contables son la base para registrar las actividades económicas de una empresa, y sirven como comprobante de los movimientos y contabilizaciones financieras; las cuales se pueden auditar de manera interna y externa, e incluso puede ser requerido por la administración de impuestos. Estos documentos se archivan en orden cronológico, manteniendo la pulcritud del documento (sin tachones o enmendaduras), con cierre por mes o por trimestre; por lo general los registros contables se realizan, en función a la fecha de emisión, de ahí la importancia de mantener un buen archivo de la documentación. En Colombia, los soportes contables se deben guardar por cinco años.
-        p.mb-0(data-aos="fade-left") Los documentos contables se pueden dividir por categorías según el uso que tengan los mismos, los cuales se pueden dividir en dos tipos, documentos internos y documentos externos.
+        p.mb-0(data-aos="fade-left") Los documentos contables se pueden dividir por categorías según el uso que tengan los mismos, los cuales estan divididos en dos tipos, documentos internos y documentos externos.
 
     .cajon.color-primario.p-4.mb-5(data-aos="flip-up")
       p.mb-0 #[b Los documentos Internos], son los que la empresa elabora para su propio uso o para redimirlos a un tercero, todo documento que sea emitido por la empresa se encuentra dentro de esta categoría, como se puede ver a continuación:   
     
     .BGIMG01.px-md-5.px-4.py-4.mb-5(data-aos="zoom-in")
       SlyderF.mb-5(columnas="col-xl-3 col-lg-4 col-sm-6")
-        ImagenInfografica.color-secundario
+        ImagenInfograficaB.color-secundario
           template(v-slot:imagen)
             figure
               img(src='@/assets/curso/tema2/img10.svg', alt='Factura de venta')
           .tarjeta.BG07.p-3(x="44%" y="75%" numero="+")
             p.mb-0 Documento comercial que se utiliza para registrar una venta, o un servicio, este es un comprobante de la operación realizada de forma legal.
-        ImagenInfografica.color-secundario
+        ImagenInfograficaB.color-secundario
           template(v-slot:imagen)
             figure
               img(src='@/assets/curso/tema2/img11.svg', alt='Recibo de caja')
           .tarjeta.BG07.p-3(x="43%" y="74%" numero="+")
             p.mb-0 Soporte contable en el cual constan los ingresos en efectivo, cheque y otras formas de recaudo; el original se entrega al cliente y la copia se archiva.
-        ImagenInfografica.color-secundario
+        ImagenInfograficaB.color-secundario
           template(v-slot:imagen)
             figure
               img(src='@/assets/curso/tema2/img12.svg', alt='Vale')
           .tarjeta.BG07.p-3(x="43%" y="74%" numero="+")
             p.mb-0 Documento crédito, que se expide como promesa de pago, por el cual el deudor se compromete a pagar, en una fecha determinada, en el mismo documento.
-        ImagenInfografica.color-secundario
+        ImagenInfograficaB.color-secundario
           template(v-slot:imagen)
             figure
               img(src='@/assets/curso/tema2/img13.svg', alt='Comprobantes de egreso')
           .tarjeta.BG07.p-3(x="43%" y="74%" numero="+")
             p.mb-0 Documentos que respaldan la salida de la empresa; permite registrar pagos o abonos de diferentes obligaciones, este es el comprobante de dicha transacción económica.
-        ImagenInfografica.color-secundario
+        ImagenInfograficaB.color-secundario
           template(v-slot:imagen)
             figure
               img(src='@/assets/curso/tema2/img14.svg', alt='Presupuesto')
           .tarjeta.BG07.p-3(x="43%" y="74%" numero="+")
             p.mb-0 Herramienta de planificación que presenta en términos cuantitativos, las actividades que se van a realizar en futuro en la empresa; es la estimación del costo necesario para llevar a cabo un proyecto.
-        ImagenInfografica.color-secundario
+        ImagenInfograficaB.color-secundario
           template(v-slot:imagen)
             figure
               img(src='@/assets/curso/tema2/img15.svg', alt='Nota débito')
           .tarjeta.BG07.p-3(x="43%" y="74%" numero="+")
             p.mb-0 Comprobante que la empresa envía a su cliente, en la que notifica haber cargado o debitado en su cuenta, por un concepto determinado que se explica en la nota.
-        ImagenInfografica.color-secundario
+        ImagenInfograficaB.color-secundario
           template(v-slot:imagen)
             figure
               img(src='@/assets/curso/tema2/img16.svg', alt='Nota crédito')
           .tarjeta.BG07.p-3(x="43%" y="74%" numero="+")
             p.mb-0 Comprobante que la empresa entrega a su cliente, para acreditar la devolución de un valor y concepto determinado, los cuales irán en la nota.
-        ImagenInfografica.color-secundario
+        ImagenInfograficaB.color-secundario
           template(v-slot:imagen)
             figure
               img(src='@/assets/curso/tema2/img17.svg', alt='Documentos equivalentes')
           .tarjeta.BG07.p-3(x="43%" y="74%" numero="+")
             p.mb-0 Documentos que reemplazan la factura, en las obligaciones comerciales, con las personas que no están obligadas a expedir facturas.
-        ImagenInfografica.color-secundario
+        ImagenInfograficaB.color-secundario
           template(v-slot:imagen)
             figure
               img(src='@/assets/curso/tema2/img18.svg', alt='Cheque')
           .tarjeta.BG07.p-3(x="43%" y="74%" numero="+")
             p.mb-0 Documento mercantil aceptado como medio de pago, firmado por el propietario de una cuenta bancaria, que habilita al que lo recibe a disponer una cantidad determinada de dinero, su principal función es la de emitir un pago sin necesidad de transportar dinero en efectivo.
 
-    p.mb-5(data-aos="fade-right") Así mismo, existen #[b los documentos externos] los cuales son comprobantes que recibe la empresa al realizar una transacción económica, por parte de terceros, como se puede ver a continuación:
+    p.mb-5(data-aos="fade-right") Así mismo, existen #[b los documentos externos,] los cuales son comprobantes que recibe la empresa al realizar una transacción económica, por parte de terceros, como se puede ver a continuación:
 
     .row.justify-content-center.mb-5
       .col-lg-4.col-8.mb-lg-0.mb-4(data-aos="fade-right")
         img(src='@/assets/curso/tema2/img19.png' alt="Imagen decorativa")
       .col-lg-8(data-aos="fade-left")
         LineaTiempoD.color-acento-contenido
-          p.text-small(numero="1" titulo="Factura de compra") Documento tributario, realizado por el comprador, cuando el vendedor al ser un particular no tiene la capacidad para generar este documento.
-          p.text-small(numero="2" titulo="Recibos de pago") Documento que se entrega a cualquier comprador, al momento de concretar el pago, por una transacción de compra.
-          p.text-small(numero="3" titulo="Comprobante de devolución") Documento mediante el cual, se registran y detallan las devoluciones por parte de los clientes.
-          p.text-small(numero="4" titulo="Letra de cambio") Documento de cobro, donde se ordena una determinada suma de dinero con una fecha de vencimiento, se utiliza como garantía de pago y también financiera.
-          p.text-small(numero="5" titulo="Desprendible de consignaciones") Comprobante que elaboran los bancos y suministran a sus clientes, para el diligenciamiento al consignar.
-          p.text-small(numero="6" titulo="Cheque") Documento mercantil, aceptado como medio de pago, firmado por el propietario de una cuenta bancaria, que habilita al que lo recibe, a disponer una cantidad determinada de dinero, su principal función es la de emitir un pago sin necesidad de transportar dinero en efectivo.
+          p(numero="1" titulo="Factura de compra") Documento tributario, realizado por el comprador, cuando el vendedor al ser un particular no tiene la capacidad para generar este documento.
+          p(numero="2" titulo="Recibos de pago") Documento que se entrega a cualquier comprador, al momento de concretar el pago, por una transacción de compra.
+          p(numero="3" titulo="Comprobante de devolución") Documento mediante el cual, se registran y detallan las devoluciones por parte de los clientes.
+          p(numero="4" titulo="Letra de cambio") Documento de cobro, donde se ordena una determinada suma de dinero con una fecha de vencimiento, se utiliza como garantía de pago y también financiera.
+          p(numero="5" titulo="Desprendible de consignaciones") Comprobante que elaboran los bancos y suministran a sus clientes, para el diligenciamiento al consignar.
+          p(numero="6" titulo="Cheque") Documento mercantil, aceptado como medio de pago, firmado por el propietario de una cuenta bancaria, que habilita al que lo recibe, a disponer una cantidad determinada de dinero, su principal función es la de emitir un pago sin necesidad de transportar dinero en efectivo.
 
-    .h5.mb-5(data-aos="fade-right") Los documentos no contables son aquellos que solo ofrecen información de una operación mercantil, entre estos documentos se encuentran:  
+    .p.mb-5(data-aos="fade-right") Los documentos no contables son aquellos que solo ofrecen información de una operación mercantil, entre estos documentos se encuentran:  
 
     .BGM08.py-5.px-md-5.px-4.mb-5(data-aos="zoom-in")
       SlyderB(:datos="datosSlyder")

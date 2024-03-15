@@ -11,11 +11,11 @@
       .col-lg-4.col-8.mb-lg-0.mb-4(data-aos="fade-right")
         img(src='@/assets/curso/tema4/img01.png' alt="Imagen decorativa")
       .col-lg-8(data-aos="fade-left")
-        p La administración del sistema de documentación contable será responsabilidad del representante legal de la empresa, desde allí se regulan todos los aspectos relativos a los documentos contables, los cuales deben corresponder a los soportes, los comprobantes y los libros de contabilidad.
-        figure.mb-4
+        p.mb-5 La administración del sistema de documentación contable será responsabilidad del representante legal de la empresa, desde allí se regulan todos los aspectos relativos a los documentos contables, los cuales deben corresponder a los soportes, los comprobantes y los libros de contabilidad.
+        figure
           img(src='@/assets/curso/tema4/img02.svg' alt="Imagen decorativa")
-        p.mb-0 Los libros de contabilidad se clasifican, en libros principales y libros auxiliares.
-
+    
+    p(data-aos="fade-right") Los libros de contabilidad se clasifican, en libros principales y libros auxiliares.
     p.mb-5(data-aos="fade-right") #[b Los libros principales]: son aquellos, donde se consigna la información sobre recursos, obligaciones, ingresos, costos y gastos de una entidad, allí se lleva el resumen de las operaciones durante el periodo contable de la organización. Los libros principales son: #[b libro diario y libro mayor].
 
     .row.justify-content-center.mb-5
@@ -24,23 +24,23 @@
           .indicador--hover(v-if="mostrarIndicador")
           img(src='@/assets/curso/tema4/img03.jpg' alt="Imagen decorativa")
           .tarjetas-up_card.BG01.p-xl-4.p-lg-3.p-sm-4.p-2
-            .title.d-flex.align-items-center.justify-content-center.text-white.mb-sm-4.mb-2
+            .title.d-flex.align-items-center.justify-content-center.mb-sm-4.mb-2
               span
                 i.fas.fa-caret-up.fa-2x.me-3
                 i.fas.fa-caret-down.fa-2x.me-3
               h4.mb-0 Libro diario
-            p.text-white.text-center.mb-0 En este, se registran cronológicamente los movimientos diarios; se deben identificar como mínimo, la fecha, el código, la denominación de la cuenta, y el movimiento diario, débito y crédito contable.
+            p.text-center.mb-0 En este, se registran cronológicamente los movimientos diarios; se deben identificar como mínimo, la fecha, el código, la denominación de la cuenta, y el movimiento diario, débito y crédito contable.
       .col-lg-6.col-sm-10.mb-xl-0.mb-4(data-aos="fade-left")
         .tarjetas-up(@mouseover="mostrarIndicador = false")
           .indicador--hover(v-if="mostrarIndicador")
           img(src='@/assets/curso/tema4/img04.jpg' alt="Imagen decorativa")
           .tarjetas-up_card.BG04.p-xl-4.p-lg-3.p-sm-4.p-2
-            .title.d-flex.align-items-center.justify-content-center.text-white.mb-sm-4.mb-2
+            .title.d-flex.align-items-center.justify-content-center.mb-sm-4.mb-2
               span
                 i.fas.fa-caret-up.fa-2x.me-3
                 i.fas.fa-caret-down.fa-2x.me-3
               h4.mb-0 Libro mayor
-            p.text-white.text-center.mb-0 Se registra por mes el saldo inicial, el movimiento y el saldo final de las cuentas, en este libro se debe identificar como mínimo: el mes, saldos iniciales, el movimiento débito y crédito y el saldo final de la cuenta.
+            p.text-center.mb-0 Se registra por mes el saldo inicial, el movimiento y el saldo final de las cuentas, en este libro se debe identificar como mínimo: el mes, saldos iniciales, el movimiento débito y crédito y el saldo final de la cuenta.
 
     .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5
       .bloque-texto-g__img(
@@ -103,19 +103,19 @@
               .col-lg-9.px-lg-0.py-lg-4.order-lg-2.order-4
                 .BGT09.px-lg-4.p-lg-0.p-4
                   .h4 El Decreto 2649 de 1993, en su artículo 134
-                  p.mb-0 El Decreto 2649 de 1993, en su artículo 134, acerca de la conservación y destrucción de los libros determina que las organizaciones deben conservar debidamente ordenados los libros de contabilidad, actas, registros de aportes, comprobantes de cuentas, los soportes de contabilidad y la correspondencia relacionada.
+                  p.mb-0 Reglamenta la conservación y destrucción de los libros, determina que las organizaciones deben conservar debidamente ordenados los libros de contabilidad, actas, registros de aportes, comprobantes de cuentas, los soportes de contabilidad y la correspondencia relacionada.
               .col-8.d-lg-none.d-flex.order-2
               .col-lg-1.col-2.px-2.order-lg-3.order-1
                 img.mx-auto(src='@/assets/curso/tema4/img10.svg' alt="Imagen decorativa")
 
-    .h5.text-center.mb-5(data-aos="fade-right") La conservación de los documentos, salvo normas especiales, debe realizarse así:
+    .p.mb-5(data-aos="fade-right") La conservación de los documentos, salvo normas especiales, debe realizarse así:
 
     .row.justify-content-center.mb-5
       .col-lg-4.col-sm-6.col-10.mb-lg-0.mb-4(data-aos="fade-right")
         .tarjeta-avatar
           img(src='@/assets/curso/tema4/img11.svg' alt='Imagen decorativa')
           .tarjeta.color-primario.h-100.p-4
-            .h5.text-center.text-white.mt-4.mb-0 20 años contados desde el cierre de aquellos o último comprobante o documento.
+            .h5.text-center.mt-4.mb-0 20 años contados desde el cierre de aquellos o último comprobante o documento.
       .col-lg-4.col-sm-6.col-10.mb-lg-0.mb-4(data-aos="fade-right")
         .tarjeta-avatar
           img(src='@/assets/curso/tema4/img12.svg' alt='Imagen decorativa')
@@ -128,7 +128,7 @@
             .h5.text-center.mt-4.mb-0 5 años ya que el liquidador de las sociedades comerciales debe conservar los libros y papeles por este término.
     
     .cajon.color-primario.p-4.mb-5(data-aos="flip-up")
-      p.mb-0 En el artículo 60 del código de comercio se determina la conservación de los libros y papeles contables desde una reproducción exacta.
+      p.mb-0 En el artículo 60 del Código de comercio se determina la conservación de los libros y papeles contables desde una reproducción exacta.
     
 </template>
 

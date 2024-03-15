@@ -11,11 +11,11 @@
       .col-lg-4.col-8.mb-lg-0.mb-4(data-aos="fade-right")
         img(src='@/assets/curso/tema1/img01.png' alt="Imagen decorativa")
       .col-lg-8
-        p(data-aos="fade-left") Es el documento que se utiliza para acreditar una compra de un bien o servicio, el cual debe generar el comprador en sus transacciones con sus proveedores que no estén obligados a expedir factura. Al realizarse transacciones con sujetos no obligados a expedir factura, el documento soporte se convierte en la evidencia de dicha transacción, este documento es una aceptación fiscal de costos, deducciones o impuestos descontables. Es obligación de las personas o empresas obligadas a expedir facturas, o generar un documento soporte cuando hacen un pago o una compra a una persona que no está obligada a expedir factura, lo anterior de acuerdo con el artículo 1.6.1.4.12 del decreto 1625 de 2016. Es importante tener en cuenta que el soporte ideal, para los costos o gastos, es la factura.
+        p(data-aos="fade-left") Es el documento que se utiliza para acreditar una compra de un bien o servicio, el cual debe generar el comprador en sus transacciones con sus proveedores que no estén obligados a expedir factura. Al realizarse transacciones con sujetos no obligados a expedir factura, el documento soporte se convierte en la evidencia de dicha transacción, este documento es una aceptación fiscal de costos, deducciones o impuestos descontables. Es obligación de las personas o empresas obligadas a expedir facturas, o generar un documento soporte cuando hacen un pago o una compra a una persona que no está obligada a expedir factura, lo anterior de acuerdo con el artículo 1.6.1.4.12 del Decreto 1625 de 2016. Es importante tener en cuenta que el soporte ideal, para los costos o gastos, es la factura.
         p.mb-0(data-aos="fade-left") El artículo 1, del Decreto 358 de 2020, sustituyó al artículo 1.6.1.4.12 del Decreto Único Reglamentario en Materia Tributaria (DUT 1625 de 2016), por el cual se dan las orientaciones con respecto al documento soporte para las adquisiciones efectuadas a sujetos no obligados a expedir factura de venta y formalizar la cuenta de cobro.
 
     .cajon.color-primario.p-4.mb-5(data-aos="flip-up")
-      p.mb-0 Teniendo en cuenta el artículo 1.6.1.4.12 del decreto 1625 de 2016, los requisitos del documento soporte para los sujetos no obligados a facturar son:
+      p.mb-0 Teniendo en cuenta el artículo 1.6.1.4.12 del Decreto 1625 de 2016, los requisitos del documento soporte para los sujetos no obligados a facturar son:
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-7.order-lg-1.order-2
@@ -53,7 +53,7 @@
       .col-lg-5.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
         img(src='@/assets/curso/tema1/img02.png' alt="Imagen decorativa")
     
-    p.text-center.mb-5(data-aos="fade-right") Además de los requisitos mencionados se deben cumplir las siguientes exigencias:
+    p.mb-5(data-aos="fade-right") Además de los requisitos mencionados se deben cumplir las siguientes exigencias:
 
     .row.justify-content-center.mb-5
       .col-lg-5.mb-lg-0.mb-4
