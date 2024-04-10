@@ -25,28 +25,28 @@
           p.mb-0 Son el respaldo de las transacciones financieras de la organización.
       .col-xxl-2.col-lg.col-sm-4.col-6.mb-lg-0.mb-4(data-aos="flip-right")
         .BGB01.h-100.p-4
-          .h1.text-end.tc2.mb-0 02
+          .h1.text-end.tc1.mb-0 02
           .row.justify-content-center.mb-4
             .col-10
               img(src='@/assets/curso/tema2/img03.svg' alt="Imagen decorativa")
           p.text-white.mb-0 Contribuyen con el cálculo de las operaciones realizadas.
       .col-xxl-2.col-lg.col-sm-4.col-6.mb-lg-0.mb-4(data-aos="flip-up")
         .BGB04.h-100.p-4
-          .h1.text-end.tc3.mb-0 03
+          .h1.text-end.tc1.mb-0 03
           .row.justify-content-center.mb-4
             .col-10
               img(src='@/assets/curso/tema2/img04.svg' alt="Imagen decorativa")
           p.text-white.mb-0 Soportan los movimientos de bienes.
       .col-xxl-2.col-lg.col-sm-4.col-6.mb-lg-0.mb-4(data-aos="flip-left")
         .BGB05.h-100.p-4
-          .h1.text-end.tc4.mb-0 04
+          .h1.text-end.text-white.mb-0 04
           .row.justify-content-center.mb-4
             .col-10
               img(src='@/assets/curso/tema2/img05.svg' alt="Imagen decorativa")
           p.text-white.mb-0 Respaldan la información financiera.
       .col-xxl-2.col-lg.col-sm-4.col-6.mb-lg-0.mb-4(data-aos="fade-left")
         .BGB06.h-100.p-4
-          .h1.text-end.tc5.mb-0 05
+          .h1.text-end.tc1.mb-0 05
           .row.justify-content-center.mb-4
             .col-10
               img(src='@/assets/curso/tema2/img06.svg' alt="Imagen decorativa")
@@ -61,8 +61,11 @@
     
     .row.justify-content-center.mb-5
       .col-lg-10
+        .titulo-sexto.color-acento-contenido(data-aos="fade-right")
+          h5 Figura 1.
+          i Documentos contables y no contables
         figure(data-aos="zoom-in")
-          img(src='@/assets/curso/tema2/img08.svg' alt="Imagen decorativa")
+          img(src='@/assets/curso/tema2/img08.svg' alt="En la Figura 1 se presentan las características de los documentos contables y no contables, los cuales son útiles para la actividad empresarial.")
     
     .row.justify-content-center.mb-5
       .col-lg-4.col-8.mb-lg-0.mb-4(data-aos="fade-right")

@@ -12,8 +12,11 @@
         img(src='@/assets/curso/tema4/img01.png' alt="Imagen decorativa")
       .col-lg-8(data-aos="fade-left")
         p.mb-5 La administración del sistema de documentación contable será responsabilidad del representante legal de la empresa, desde allí se regulan todos los aspectos relativos a los documentos contables, los cuales deben corresponder a los soportes, los comprobantes y los libros de contabilidad.
+        .titulo-sexto.color-acento-contenido(data-aos="fade-right")
+          h5 Figura 2.
+          i Documentos contables
         figure
-          img(src='@/assets/curso/tema4/img02.svg' alt="Imagen decorativa")
+          img(src='@/assets/curso/tema4/img02.svg' alt="En la Figura 2 se presentan los documentos contables que corresponden a soportes, comprobantes y libros de contabilidad, los cuales son responsabilidad del representante legal controlar.")
     
     p(data-aos="fade-right") Los libros de contabilidad se clasifican, en libros principales y libros auxiliares.
     p.mb-5(data-aos="fade-right") #[b Los libros principales]: son aquellos, donde se consigna la información sobre recursos, obligaciones, ingresos, costos y gastos de una entidad, allí se lleva el resumen de las operaciones durante el periodo contable de la organización. Los libros principales son: #[b libro diario y libro mayor].

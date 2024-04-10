@@ -191,12 +191,28 @@ export default {
         'es el registro de los comerciantes y sus establecimientos de comercio, así como el depósito de documentos de carácter mercantil más importantes para el comerciante.',
     },
     {
-      termino: 'Sociedades comerciales',
+      termino: 'Sociedad comerciales',
       significado:
         'tienen como objetivo la realización de actos de comercio o, en general, una actividad sujeta al derecho mercantil, también se diferencia de una sociedad civil en el hecho de que esta última no contempla en su objeto social actos mercantiles.',
     },
   ],
   referencias: [
+    {
+      referencia:
+        'Función Pública. (2024). Decreto 1625 de 2016. Materia Tributaria. Recuperado de',
+      link:
+        'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=83233',
+    },
+    {
+      referencia: 'Función Pública. (2024). Decreto 358 de 2020. Recuperado de',
+      link:
+        'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=110414',
+    },
+    {
+      referencia: 'DIAN. (2020). Resolución 42 de 2020. Recuperado de',
+      link:
+        'https://normograma.dian.gov.co/dian/compilacion/docs/resolucion_dian_0042_2020.htm',
+    },
     {
       referencia:
         'Ayala, S., Fino, G. (2015). Contabilidad Básica General: un enfoque administrativo y de control interno, Libro I. Corporación Universitaria Republicana.',
@@ -212,6 +228,24 @@ export default {
     {
       referencia:
         'Contaduría General de la Nación, Ministerio de Hacienda. (2018). Norma de Proceso Contable y Sistema Documental Contables.',
+    },
+    {
+      referencia:
+        'Secretaría General del Senado. (2024). Ley 962 de 2005, artículo 28. Recuperado de',
+      link:
+        'http://www.secretariasenado.gov.co/senado/basedoc/ley_0962_2005.html',
+    },
+    {
+      referencia:
+        'Archivo General de la Nación Colombia. (2024). Decreto 2649 de 1993, artículo 134. Recuperado de',
+      link:
+        'https://normativa.archivogeneral.gov.co/decreto-2649-de-1993/?pdf=734#:~:text=ARTICULO%20134&text=Los%20entes%20econ%C3%B3micos%20deben%20conservar,correspondencia%20relacionada%20con%20sus%20operaciones.',
+    },
+    {
+      referencia:
+        'Secretaría General del Senado. (2024). Código de comercio, artículo 60. Recuperado de',
+      link:
+        'http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio_pr001.html#:~:text=ART%C3%8DCULO%2060.,%C3%BAltimo%20asiento%2C%20documento%20o%20comprobante',
     },
   ],
   creditos: [
@@ -302,17 +336,17 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Carolina Coca Salazar',
+          nombre: 'Jorge Eduardo Rueda Peña',
           cargo: 'Evaluación de contenidos inclusivos y accesibles',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
-          nombre: 'Lina Marcela Pérez Manchego',
+          nombre: 'Javier Mauricio Oviedo',
           cargo: 'Validación de recursos educativos digitales',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
-          nombre: 'Leyson Fabián Castaño Pérez',
+          nombre: 'Jorge Bustos Ortiz',
           cargo: 'Validación de recursos educativos digitales',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
