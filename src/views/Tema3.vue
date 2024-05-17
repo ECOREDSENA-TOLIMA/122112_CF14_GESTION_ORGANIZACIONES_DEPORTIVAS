@@ -13,7 +13,7 @@
       .col-lg-8
         p(data-aos="fade-left") La documentación en las organizaciones cuenta la historia a través del tiempo, sus orígenes y el rumbo que toma, para cumplir sus metas y objetivos; los documentos determinan el tipo de organización que es, su estructura jurídica, cómo está organizada, su misión y su visión. Mantienen el cumplimiento de las normativas que se aplican según sea la necesidad, por ejemplo: cumplir con la documentación para el funcionamiento, pagos tributarios, registros de transacciones financieras, beneficios estatales.
         .cajon.color-primario.p-4(data-aos="fade-left")
-          p.mb-0 Entre sus propósitos, el principal es recolectar y disponer los soportes documentales, así como elaborar el registro contable y financiero dentro de la organización, de acuerdo con la normativa interna y externa que la rige. En general permite controlar las operaciones económicas realizadas por la organización.
+          p.mb-0 Entre sus propósitos, el principal es recolectar y disponer los soportes documentales, así como elaborar el registro contable y financiero dentro de la organización, de acuerdo con la normativa interna y externa que la rige. En general, permite controlar las operaciones económicas realizadas por la organización.
 
     p.mb-5(data-aos="fade-right") Todas las organizaciones deben registrar sus operaciones económicas en los libros de contabilidad, y a su vez deben tener soportes documentales de cada una de las transacciones realizadas, estos documentos deben contener una información general como:
 

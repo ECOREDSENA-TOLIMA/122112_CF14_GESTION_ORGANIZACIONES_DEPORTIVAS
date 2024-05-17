@@ -260,7 +260,7 @@ export default {
         {
           nombre: 'Liliana Victoria Morales Gualdrón',
           cargo: 'Responsable de línea de producción',
-          centro: 'Centro de Comercio y Servicios - Regional Tolima',
+          centro: 'Regional Tolima. Centro de Comercio y Servicios',
         },
       ],
     },
@@ -280,7 +280,7 @@ export default {
         {
           nombre: 'Paola Andrea Quintero Aguilar',
           cargo: 'Diseñadora instruccional',
-          centro: 'Regional Bogotá, Centro de Gestión Industrial.',
+          centro: 'Regional Distrito Capital, Centro de Gestión Industrial.',
         },
         {
           nombre: 'Carolina Coca Salazar',
@@ -307,7 +307,7 @@ export default {
         {
           nombre: 'Viviana Esperanza Herrera Quiñonez',
           cargo: 'Evaluación instruccional',
-          centro: 'Centro de Comercio y Servicios - Regional Tolima',
+          centro: 'Regional Tolima. Centro de Comercio y Servicios',
         },
       ],
     },
@@ -317,12 +317,12 @@ export default {
         {
           nombre: 'Oscar Ivan Uribe Ortiz',
           cargo: 'Diseñador web',
-          centro: 'Centro de Comercio y Servicios - Regional Tolima',
+          centro: 'Regional Tolima. Centro de Comercio y Servicios',
         },
         {
           nombre: 'Diego Fernando Velasco Güiza',
           cargo: 'Desarrollador Fullstack',
-          centro: 'Centro de Comercio y Servicios - Regional Tolima',
+          centro: 'Regional Tolima. Centro de Comercio y Servicios',
         },
         {
           nombre: 'Laura Giselle Murcia Pardo',
@@ -338,17 +338,17 @@ export default {
         {
           nombre: 'Jorge Eduardo Rueda Peña',
           cargo: 'Evaluación de contenidos inclusivos y accesibles',
-          centro: 'Centro de Comercio y Servicios - Regional Tolima',
+          centro: 'Regional Tolima. Centro de Comercio y Servicios',
         },
         {
           nombre: 'Javier Mauricio Oviedo',
           cargo: 'Validación de recursos educativos digitales',
-          centro: 'Centro de Comercio y Servicios - Regional Tolima',
+          centro: 'Regional Tolima. Centro de Comercio y Servicios',
         },
         {
           nombre: 'Jorge Bustos Ortiz',
           cargo: 'Validación de recursos educativos digitales',
-          centro: 'Centro de Comercio y Servicios - Regional Tolima',
+          centro: 'Regional Tolima. Centro de Comercio y Servicios',
         },
       ],
     },

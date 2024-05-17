@@ -3,7 +3,7 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p.mb-5(data-aos="fade-right") En resumen, la "Elaboración de Soportes Contables" es fundamental en la contabilidad de una organización. Los soportes deben tener características como precisión y cumplimiento de normativas. Su propósito es respaldar operaciones financieras, facilitar auditorías y cumplir con obligaciones legales. Esto implica un análisis detallado, la relación adecuada de documentos y su diligenciamiento conforme a las normas contables y fiscales, asegurando la integridad y exactitud de la información financiera. A continuación, se presenta un mapa conceptual que resume la información de este proceso.
+    p.mb-5(data-aos="fade-right") En resumen, los documentos soporte son fundamentales en la contabilidad de una organización. Estos deben tener características como precisión y cumplimiento de normativas. Su propósito es respaldar operaciones financieras, facilitar auditorías y cumplir con obligaciones legales. Esto implica un análisis detallado, la correcta relación de documentos y su diligenciamiento conforme a las normas contables y fiscales, asegurando la integridad y exactitud de la información financiera. A continuación, se presenta un mapa conceptual que resume la información de este proceso.
 
     .row.justify-content-center
       .col-lg-10.mb-5(data-aos="fade-right")

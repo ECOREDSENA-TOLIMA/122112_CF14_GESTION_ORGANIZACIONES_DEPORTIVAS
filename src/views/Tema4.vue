@@ -62,7 +62,7 @@
               .col-lg-9.px-lg-0.py-lg-4.order-lg-2.order-4
                 .BGR09.px-lg-4.p-lg-0.p-4
                   .h4 Prohibiciones relacionadas con los documentos contables
-                  p.mb-0 En los documentos contables no se puede tachar, mutilar, enmendar, eliminar, alterar las denominaciones o cuantías, ni adicionar información anteriormente establecida en el documento. Si se debe corregir un soporte, la organización debe anular el documento inicial, y solicitar a la otra entidad uno nuevo; cuando los documentos son internos, debe realizarse el procedimiento según políticas de la organización. Para los libros y comprobantes de contabilidad está prohibido alterar el orden cronológico en que ocurren los hechos económicos, al contener errores en los comprobantes de contabilidad se debe emitir un nuevo comprobante, ajustando las partidas afectadas.
+                  p.mb-0 En los documentos contables no se puede tachar, mutilar, enmendar, eliminar, alterar las denominaciones o cuantías, ni adicionar información anteriormente establecida en el documento. Si se debe corregir un soporte, la organización debe anular el documento inicial, y solicitar a la otra entidad uno nuevo; cuando los documentos son internos, debe realizarse el procedimiento según políticas de la organización. Para los libros y comprobantes de contabilidad está prohibido alterar el orden cronológico en que ocurren los hechos económicos, al contener errores en los comprobantes de contabilidad, se debe emitir un nuevo comprobante, ajustando las partidas afectadas.
               .col-7.d-lg-none.d-flex.order-2
               .col-lg-1.col-2.px-2.order-lg-3.order-1
                 img.mx-auto(src='@/assets/curso/tema4/img07.svg' alt="Imagen decorativa")
@@ -98,7 +98,7 @@
         .col-lg-8
           p(data-aos="fade-left") Para el caso de documentos impresos, las entidades deberán conservar, de manera ordenada y en pulcritud los soportes, comprobantes y libros de contabilidad, se deberá tener en cuenta las tablas de retención documental establecidas por la entidad.
           .cajon.color-primario.p-4.mb-5(data-aos="fade-left")
-            p.mb-0 El término de la conservación de soportes, libros y comprobantes es de 10 años, contados a partir de la fecha del último asiento, según la Ley 962 de 2005 artículo 28.
+            p.mb-0 El término de la conservación de soportes, libros y comprobantes es de 10 años, contados a partir de la fecha del último asiento, según la Ley 962 de 2005, artículo 28.
           .BGS09
             .row.justify-content-end.align-items-center
               .col-lg-2.col-3.img-02.order-lg-1.order-3

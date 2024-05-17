@@ -37,11 +37,11 @@
           li(style="margin-bottom: 5px" data-aos="fade-right")
             i.fas.fa-caret-right.my-auto(style="color: #FE502D; font-size: xx-large")
             .BGR02.w-100.p-2
-              p.mb-0 Contener los apellidos y nombre o razón social y Número de Identificación Triibutaria (NIT) del adquiriente de los bienes o servicios.
+              p.mb-0 Contener los apellidos y nombre o razón social y Número de Identificación Tributaria (NIT) del adquiriente de los bienes o servicios.
           li(style="margin-bottom: 5px" data-aos="fade-right")
             i.fas.fa-caret-right.my-auto(style="color: #FE502D; font-size: xx-large")
             .BGR02.w-100.p-2
-              p.mb-0 Llevar el número que corresponda a un sistema de numeración consecutiva de documento soporte incluyendo el número, rango y vigencia autorizado por la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN).
+              p.mb-0 Llevar el número que corresponda a un sistema de numeración consecutiva de documento soporte, incluyendo el número, rango y vigencia autorizado por la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN).
           li(style="margin-bottom: 5px" data-aos="fade-right")
             i.fas.fa-caret-right.my-auto(style="color: #FE502D; font-size: xx-large")
             .BGR02.w-100.p-2
@@ -53,7 +53,7 @@
       .col-lg-5.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
         img(src='@/assets/curso/tema1/img02.png' alt="Imagen decorativa")
     
-    p.mb-5(data-aos="fade-right") Además de los requisitos mencionados se deben cumplir las siguientes exigencias:
+    p.mb-5(data-aos="fade-right") Además de los requisitos mencionados, se deben cumplir las siguientes exigencias:
 
     .row.justify-content-center.mb-5
       .col-lg-5.mb-lg-0.mb-4

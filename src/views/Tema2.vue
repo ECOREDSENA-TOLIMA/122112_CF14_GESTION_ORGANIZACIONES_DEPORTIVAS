@@ -72,7 +72,7 @@
         img(src='@/assets/curso/tema2/img09.png' alt="Imagen decorativa")
       .col-lg-8
         p(data-aos="fade-left") Los documentos contables son la base para registrar las actividades económicas de una empresa, y sirven como comprobante de los movimientos y contabilizaciones financieras; las cuales se pueden auditar de manera interna y externa, e incluso puede ser requerido por la administración de impuestos. Estos documentos se archivan en orden cronológico, manteniendo la pulcritud del documento (sin tachones o enmendaduras), con cierre por mes o por trimestre; por lo general los registros contables se realizan, en función a la fecha de emisión, de ahí la importancia de mantener un buen archivo de la documentación. En Colombia, los soportes contables se deben guardar por cinco años.
-        p.mb-0(data-aos="fade-left") Los documentos contables se pueden dividir por categorías según el uso que tengan los mismos, los cuales estan divididos en dos tipos, documentos internos y documentos externos.
+        p.mb-0(data-aos="fade-left") Los documentos contables pueden dividirse en categorías según su uso, los cuales se clasifican en dos tipos: documentos internos y documentos externos.
 
     .cajon.color-primario.p-4.mb-5(data-aos="flip-up")
       p.mb-0 #[b Los documentos Internos], son los que la empresa elabora para su propio uso o para redimirlos a un tercero, todo documento que sea emitido por la empresa se encuentra dentro de esta categoría, como se puede ver a continuación:   
@@ -173,19 +173,19 @@ export default {
         imagen: require('@/assets/curso/tema2/img21.png'),
       },
       {
-        titulo: 'Órden de pedido',
+        titulo: 'Orden de pedido',
         texto:
           'Es una solicitud formal de un bien o servicio, en este documento se especifican detalladamente, los artículos o servicios, solicitados.',
         imagen: require('@/assets/curso/tema2/img22.png'),
       },
       {
-        titulo: 'Órden de compra',
+        titulo: 'Orden de compra',
         texto:
           'Documento informativo que se expide al cliente, para el envío de la mercancía.',
         imagen: require('@/assets/curso/tema2/img23.png'),
       },
       {
-        titulo: 'Órden de entrega',
+        titulo: 'Orden de entrega',
         texto:
           'Permite certificar la entrega de productos vendidos al cliente.',
         imagen: require('@/assets/curso/tema2/img24.png'),
